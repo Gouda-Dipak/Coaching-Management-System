@@ -49,12 +49,12 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/Dudam-Laxmikant/MDL_Coaching.git
+git clone https://github.com/Gouda-Dipak/Coaching-Management-System.git
 
 # Navigate to backend and install dependencies
-cd MDL_Coaching/backend
+cd MDL/backend
 npm install
 
 # Navigate to frontend and install dependencies
-cd ../frontend
+cd MDL/frontend
 npm install
