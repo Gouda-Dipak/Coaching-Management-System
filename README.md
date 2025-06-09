@@ -8,6 +8,11 @@
 
 🔗 [Click here to view live](https://mdl-coaching.netlify.app/)
 
+You must require while preview :
+teacher : goudadipak1@gmail.com
+student : akridirahul1@gmail.com
+admin : laxmikant@gmail.com
+
 ## ✨ Key Features
 
 - 📝 Assignment uploading and viewing
